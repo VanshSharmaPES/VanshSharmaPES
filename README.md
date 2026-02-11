@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student pursuing CSE (AIML).<br>I am working on my Machine Learning skills along with studying the academic curriculum.<br>I am looking forward to work on AIML and open-source projects.
+Hi there, I’m Vansh Sharma! 👋<br>I am a B.Tech CSE (AI/ML) student at PES University with a passion for building scalable full-stack applications and exploring the depths of Artificial Intelligence. My work bridges the gap between robust system logic and modern, responsive user experiences.<br><br>🚀 What I’m currently focused on:<br><br><br>- Machine Learning: I am actively studying ML and am eager to collaborate on innovative projects that leverage AI to solve real-world problems. <br><br>- Research: I am looking forward to contributing to the academic community through research papers in the AI/ML domain.<br><br><br>- Full-Stack Development: Refining my expertise in the MERN and Next.js stacks.<br><br>💻 Technical Toolkit:<br><br><br>- Languages: C, Python, JavaScript (ES6+), HTML5, CSS3.<br><br><br>- Frameworks & Libraries: React.js, Next.js, Node.js, Express.js, Tailwind CSS.<br><br><br>- Databases & Tools: MongoDB, Git, GitHub, Vercel.<br><br><br>- Core Fundamentals: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and RESTful APIs.<br><br>🌟 Project Highlights:<br><br><br>- NovaLearn: A comprehensive LMS featuring role-based access, JWT authentication, and a gamified student experience.<br><br><br>- Hospital Queue Management: A priority-based patient triage system engineered using C data structures to optimize workflow efficiency.<br><br><br>- Portfolio Website: A high-performance, responsive site built with React and Tailwind, optimized for speed and mobile-first design.<br><br>🤝 Leadership & Community:<br><br><br>- AIESEC in Bengaluru: Currently serving as a Junior Manager for Outgoing Global Talent/Corporate Exchanges.<br><br><br>- Nexus - AWS Champ Club: Technical Member for the AI/ML domain.<br><br><br>- MLSA PESU: Logistics Member for the Microsoft Learn Student Ambassadors.<br><br>📫 How to reach me:<br><br><br>- Email: vanshsharma2006asr@gmail.com <br><br>- Connect: LinkedIn | Portfolio
 
 
 ## 🌐 Socials:
@@ -14,6 +14,9 @@ I am currently a student pursuing CSE (AIML).<br>I am working on my Machine Lear
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VanshSharmaPES&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VanshSharmaPES&limit=5&theme=dark&combine_all_yearly_contributions=true)
