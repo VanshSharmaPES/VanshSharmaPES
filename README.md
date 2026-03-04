@@ -1,42 +1,123 @@
-# About Me:
-## Hi there, I’m Vansh Sharma!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vansh%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20PESU%20%2726&descAlignY=55&descSize=16" />
+</div>
 
-<big>I am a highly motivated **B.Tech CSE (AI/ML)** undergraduate at **PES University** with a passion for building scalable full-stack applications and exploring Artificial Intelligence. I love bridging the gap between robust, high-performance system logic and modern, accessible user experiences.</big>
+<div align="center">
+  <a href="https://linkedin.com/in/vansh-sharma-pesu">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vanshsharma2006asr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vanshsharma-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/v_.s_.2006">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <img src="https://visitcount.itsvoc.com/api?id=VanshSharmaPES&label=Profile%20Views&icon=0&color=6" />
+</div>
 
-## What I’m currently focused on:
-* <big>**Machine Learning & Explainable AI (XAI):** Actively building intelligent systems that not only make predictions but also clearly explain their reasoning.</big>
-* <big>**Full-Stack Engineering:** Architecting scalable applications using the MERN stack and Next.js, prioritizing performance and user accessibility.</big>
-* <big>**Research:** Looking forward to contributing to the academic community through research papers in the AI/ML domain.</big>
+---
 
-## Technical Toolkit:
-* <big>**Languages:** C, Python, JavaScript (ES6+), HTML5, CSS3</big>
-* <big>**Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Tailwind CSS, MongoDB, Flask</big>
-* <big>**Tools:** Git, GitHub, Vercel, VS Code, Apache JMeter</big>
-* <big>**Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, RESTful APIs, Machine Learning</big>
+## 👋 Hey, I'm Vansh!
 
-## Project Highlights:
-* <big>**Glass Box Intelligent Triage System:** A scalable, real-time Hospital Queue Management System enhanced with Machine Learning. Built on the MERN stack and Python, it utilizes Explainable AI (XAI) to predict medical urgency and provide transparent triage decisions. Validated via Apache JMeter to handle 500+ concurrent users with 16ms latency and 0% packet loss.</big>
-* <big>**Sanjeevani AI:** An AI-powered healthcare assistant built with Next.js, Tailwind CSS, Python, and Flask. It leverages the Groq API to analyze medicine strips and decipher handwritten prescriptions, integrating edge-tts for multilingual audio instructions to improve accessibility for elderly and visually impaired users.</big>
-* <big>**NovaLearn:** A comprehensive Learning Management System using Next.js, Node.js, Express, and MongoDB. Features role-based access for instructors to author multi-chapter video courses and students to enroll and track progress.</big>
-* <big>**High-Performance Portfolio:** A fully responsive personal site built with React.js and Tailwind CSS. Deployed on Vercel with continuous integration, achieving optimal load times and a 97 performance score on Google Lighthouse through asset optimization and mobile-first design.</big>
+I'm a **B.Tech CSE (AI/ML)** undergraduate at **PES University, Bengaluru**, passionate about building scalable full-stack applications and intelligent systems that are both powerful *and* explainable. I love bridging the gap between robust system logic and modern, accessible user experiences.
 
-## Leadership & Community:
-* <big>**AIESEC in Bengaluru:** Junior Manager for Outgoing Global Talent/Corporate Exchanges & Member of the Organizing Committee for Recruitments.</big>
-* <big>**Nexus - AWS Champ Club:** Technical Member for the AIML domain.</big>
-* <big>**Microsoft Learn Student Ambassadors (MLSA), PESU:** Logistics Member.</big>
-* <big>**WEAL-ECC:** Former Logistics and Operations Member for the health-tech club at PES University.</big>
+- 🔭 Currently building: **AI-powered healthcare and productivity tools**
+- 🌱 Currently exploring: **LangChain, RAG pipelines & Explainable AI (XAI)**
+- 🎯 Goal: Contribute to AI/ML research and ship products that matter
+- 💬 Ask me about: **MERN Stack, Next.js, Machine Learning, System Design**
 
-## How to reach me:
-* <big>**Email:** vanshsharma2006asr@gmail.com</big>
-* <big>**Connect:** [LinkedIn](https://linkedin.com/in/vansh-sharma-pesu) | [Portfolio](https://vanshsharma-portfolio.vercel.app/)</big>
+---
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v_.s_.2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-sharma-pesu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshsharma2006asr@gmail.com) 
+## 🚀 Featured Projects
 
-## Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+| Project | Stack | Highlights |
+|---|---|---|
+| 🏥 [Glass Box Triage System]([#](https://github.com/VanshSharmaPES/ClearTriage)) | MERN + Python + XAI | Real-time hospital queue mgmt; 500+ concurrent users, 16ms latency, 0% packet loss |
+| 🤖 [Sanjeevani AI]([#](https://github.com/VanshSharmaPES/Sanjeevani)) | Next.js + Flask + Groq API | AI healthcare assistant; multilingual audio, accessible for elderly & visually impaired |
+| 📚 [NovaLearn]([#](https://github.com/VanshSharmaPES/NovaLearn)) | MERN + JWT | Full-featured LMS with role-based access for instructors and students |
+| ⚡ [Portfolio]([#](https://github.com/VanshSharmaPES/Portfolio-App-Full-Stack)) | React.js + Tailwind + Vercel | 97/100 Lighthouse performance score; mobile-first, CI/CD deployed |
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VanshSharmaPES&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=VanshSharmaPES&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaPES&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Replace `#` with actual repo links!
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+
+**Backend**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshSharmaPES&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaPES&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VanshSharmaPES&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshSharmaPES&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🌐 Leadership & Community
+
+- **AIESEC in Bengaluru** — Junior Manager, Outgoing Global Talent & Corporate Exchanges; Organizing Committee, Recruitments
+- **Nexus – AWS Champ Club** — Technical Member, AI/ML Domain
+- **Microsoft Learn Student Ambassadors (MLSA), PESU** — Logistics Member
+- **WEAL-ECC, PES University** — Former Logistics & Operations Member, Health-Tech Club
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
