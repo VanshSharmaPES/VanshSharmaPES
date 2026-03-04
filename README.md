@@ -15,7 +15,6 @@
   <a href="https://instagram.com/v_.s_.2006">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <img src="https://visitcount.itsvoc.com/api?id=VanshSharmaPES&label=Profile%20Views&icon=0&color=6" />
 </div>
 
 ---
@@ -35,12 +34,10 @@ I'm a **B.Tech CSE (AI/ML)** undergraduate at **PES University, Bengaluru**, pas
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🏥 [Glass Box Triage System]([#](https://github.com/VanshSharmaPES/ClearTriage)) | MERN + Python + XAI | Real-time hospital queue mgmt; 500+ concurrent users, 16ms latency, 0% packet loss |
-| 🤖 [Sanjeevani AI]([#](https://github.com/VanshSharmaPES/Sanjeevani)) | Next.js + Flask + Groq API | AI healthcare assistant; multilingual audio, accessible for elderly & visually impaired |
-| 📚 [NovaLearn]([#](https://github.com/VanshSharmaPES/NovaLearn)) | MERN + JWT | Full-featured LMS with role-based access for instructors and students |
-| ⚡ [Portfolio]([#](https://github.com/VanshSharmaPES/Portfolio-App-Full-Stack)) | React.js + Tailwind + Vercel | 97/100 Lighthouse performance score; mobile-first, CI/CD deployed |
-
-> Replace `#` with actual repo links!
+| 🏥 [Glass Box Triage System](https://github.com/VanshSharmaPES/ClearTriage) | MERN + Python + XAI | Real-time hospital queue mgmt; 500+ concurrent users, 16ms latency, 0% packet loss |
+| 🤖 [Sanjeevani AI](https://github.com/VanshSharmaPES/Sanjeevani) | Next.js + Flask + Groq API | AI healthcare assistant; multilingual audio, accessible for elderly & visually impaired |
+| 📚 [NovaLearn](https://github.com/VanshSharmaPES/NovaLearn) | MERN + JWT | Full-featured LMS with role-based access for instructors and students |
+| ⚡ [Portfolio](https://github.com/VanshSharmaPES/Portfolio-App-Full-Stack) | React.js + Tailwind + Vercel | 97/100 Lighthouse performance score; mobile-first, CI/CD deployed |
 
 ---
 
@@ -93,11 +90,6 @@ I'm a **B.Tech CSE (AI/ML)** undergraduate at **PES University, Bengaluru**, pas
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshSharmaPES&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaPES&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
-</div>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=VanshSharmaPES&theme=tokyonight&hide_border=true" />
