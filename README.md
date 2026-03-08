@@ -34,12 +34,10 @@ I'm a **B.Tech CSE (AI/ML)** undergraduate at **PES University, Bengaluru**, pas
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🏥 [Glass Box Triage System](https://github.com/VanshSharmaPES/ClearTriage) | MERN + Python + XAI | Real-time hospital queue mgmt; 500+ concurrent users, 16ms latency, 0% packet loss |
+| 🏥 [Glass Box Triage System](https://github.com/VanshSharmaPES/ClearTriage) | MERN + Python + XAI | Real-time hospital queue management; 500+ concurrent users, 16ms latency, 0% packet loss |
 | 🤖 [Sanjeevani AI](https://github.com/VanshSharmaPES/Sanjeevani) | Next.js + Flask + Groq API | AI healthcare assistant; multilingual audio, accessible for elderly & visually impaired |
 | 📚 [NovaLearn](https://github.com/VanshSharmaPES/NovaLearn) | MERN + JWT | Full-featured LMS with role-based access for instructors and students |
 | ⚡ [Portfolio](https://github.com/VanshSharmaPES/Portfolio-App-Full-Stack) | React.js + Tailwind + Vercel | 97/100 Lighthouse performance score; mobile-first, CI/CD deployed |
-| ⏱️ Priority Task Scheduler | C | System-level task scheduler engineered to optimize workflow and manage execution priorities |
-| 🕹️ Hardware Tic-Tac-Toe | Verilog / iVerilog | Low-level system design implementing a fully functional game using hardware description language |
 
 ---
 
