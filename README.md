@@ -103,7 +103,7 @@ I'm a **B.Tech CSE (AI/ML)** undergraduate at **PES University, Bengaluru**, pas
 
 ## 🌐 Leadership & Community
 
-- **AIESEC in Bengaluru** — Junior Manager, Outgoing Global Talent & Corporate Exchanges; Organizing Committee, Recruitments
+- **AIESEC in Bengaluru** — Senior Manager, Outgoing Global Talent & Corporate Exchanges (Former Junior Manager, Outgoing Global Talent & Corporate Exchanges; Organizing Committee, Recruitments)
 - **Nexus – AWS Champ Club** — Technical Member, AI/ML Domain
 - **Microsoft Learn Student Ambassadors (MLSA), PESU** — Logistics Member
 - **WEAL-ECC, PES University** — Former Logistics & Operations Member, Health-Tech Club
