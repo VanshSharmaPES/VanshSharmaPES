@@ -115,11 +115,6 @@ I build full-stack systems where the ML layer has to actually earn its place —
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshSharmaPES&theme=tokyonight" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshSharmaPES&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharmaPES&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
