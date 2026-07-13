@@ -168,6 +168,7 @@ I build full-stack systems where the ML layer has to actually earn its place —
 - 💼 **Open to**: SDE / ML Engineer internships (Summer 2026) & full-time (2028)
 - 💬 **Ask me about**: Medical AI, LLM pipelines, multilingual TTS, explainable ML, AST-based code analysis, reliable UDP protocols
 - 📧 **Reach me**: `vansh@vansharma.tech` or [LinkedIn](https://linkedin.com/in/vansh-sharma-pesu)
+- 📩 **Direct email**: [mailto:vansh@vansharma.tech](mailto:vansh@vansharma.tech)
 
 ---
 
