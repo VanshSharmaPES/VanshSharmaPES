@@ -61,7 +61,7 @@ I build full-stack systems where the ML layer has to actually earn its place —
 
 - Real-time "Why?" tooltips for every nurse-facing prediction via SHAP force plots
 - Stack: Next.js, Express, MongoDB, FastAPI, SHAP, scikit-learn
-- 🔗 [Repo](https://github.com/VanshSharmaPES/ClearTriage) • [Demo](https://cleartriage.vercel.app)
+- 🔗 [Repo](https://github.com/VanshSharmaPES/ClearTriage)
 
 ---
 
@@ -86,7 +86,7 @@ I build full-stack systems where the ML layer has to actually earn its place —
 ### 🌐 **Portfolio Website**
 > Editorial dark-mode aesthetic. **97/100 Lighthouse**. CI/CD on Vercel.
 - Stack: React, Tailwind, Vite
-- 🔗 [Live](https://vansharma.tech) • [Repo](https://github.com/VanshSharmaPES/Portfolio-App-Full-Stack)
+- 🔗 [Live](https://vansharma.tech)
 
 ---
 
@@ -104,49 +104,35 @@ I build full-stack systems where the ML layer has to actually earn its place —
 
 ---
 
-## 🧠 Currently Leveling Up (5th Semester Focus)
-
-| Area | What I'm Doing |
-|------|----------------|
-| **LLM Optimization** | LoRA fine-tuning Llama-4-Maverick on 512 Rx dataset • Self-consistency decoding (N=5) • Confidence-threshold routing (0.85) |
-| **MLOps for Medical AI** | Offline simulation (512 Rx) vs live pilot evaluation pipeline • Latency profiling • Cache warming strategies |
-| **Production AI Infra** | NVIDIA NIMs deployment • Groq LPU inference • Multi-provider failover • Rate-limit handling |
-| **Coursework** | ML (PyTorch), DBMS (Redis/Neo4j/Kafka), SE (Docker/Jenkins/SonarQube), Prompt Engineering, Active Learning |
-
----
-
 ## 🛠️ Tech Stack
 
 **AI/ML & LLMs**  
-`Llama-4-Scout` `Llama-3.3-70B` `Groq API` `NVIDIA NIM` `PyTorch` `scikit-learn` `SHAP` `OpenCV` `Hugging Face` `LangChain` `sentence-transformers` `Edge TTS` `tree-sitter`
+![Llama](https://img.shields.io/badge/Llama-4-Scout-orange?logo=meta&logoColor=white) ![Llama](https://img.shields.io/badge/Llama-3.3--70B-orange?logo=meta&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?logo=groq&logoColor=white) ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?logo=nvidia&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-000000?logo=shap&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-000000?logo=huggingface&logoColor=white) ![Edge TTS](https://img.shields.io/badge/Edge_TTS-0078D4?logo=microsoft&logoColor=white) ![tree-sitter](https://img.shields.io/badge/tree--sitter-000000?logo=github&logoColor=white)
 
 **Full-Stack**  
-`React` `Next.js` `Node.js` `Express` `FastAPI` `Flask` `Tailwind CSS` `TypeScript` `JavaScript (ES6+)` `Python` `C` `C++`
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 
 **Data & Infra**  
-`MongoDB` `SQLite` `Supabase` `Redis` `Neo4j` `Kafka` `Docker` `Gunicorn` `Vercel` `Render` `n8n` `Apache JMeter` `BullMQ`
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4D5A?logo=n8n&logoColor=white) ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?logo=apachejmeter&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-000000?logo=bullmq&logoColor=white)
 
 **Tools**  
-`Git` `GitHub` `VS Code` `Jira` `OpenProject` `SonarQube` `pytest` `Zod` `Figma`
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![OpenProject](https://img.shields.io/badge/OpenProject-2C3E50?logo=openproject&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshSharmaPES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshSharmaPES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaPES&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaPES&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharmaPES&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharmaPES&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshSharmaPES&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshSharmaPES&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
