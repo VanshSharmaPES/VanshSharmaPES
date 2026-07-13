@@ -43,62 +43,54 @@ I build full-stack systems where the ML layer has to actually earn its place —
 
 ## 🚀 Featured Projects
 
-### 🏥 **Sanjeevani** — Prescription OCR + Multilingual TTS for Rural Healthcare
-> Reads handwritten prescriptions → extracts structured meds/dosage/frequency → validates safety → reads aloud in the patient's native language.
-
-- **Two-stage LLM pipeline**: Llama-4-Scout (NVIDIA NIM) for vision OCR → Llama-3.3-70B-Versatile (Groq LPU) for medical reasoning
-- **Multi-provider routing** with API key rotation + exponential backoff
-- **MD5 caching layer** for prescription deduplication
-- **250K+ Indian medicine fuzzy match** (SQLite + OpenFDA fallback)
-- **Confidence-scored fallback** to deterministic rule engine (`medicine_matcher.py`)
-- **22 scheduled Indian languages** via Edge TTS neural voices
+### 🏥 **Sanjeevani** — Prescription OCR + Multilingual TTS
+- Two-stage LLM pipeline: Llama-4-Scout (NVIDIA NIM) → Llama-3.3-70B (Groq)
+- 250K+ medicine fuzzy match (SQLite + OpenFDA), 22 Indian languages (Edge TTS)
+- Multi-provider routing, MD5 caching, confidence fallback to deterministic rules
 - 🔗 [Repo](https://github.com/VanshSharmaPES/Sanjeevani)
 
 ---
 
-### 🏥 **ClearTriage** — Explainable AI Hospital Triage System
-> Random Forest ESI classifier + SHAP explanations. **0% error vs human triage** on 50-case clinical audit. **619 req/s** sustained (JMeter, 100 concurrent users).
-
-- Real-time "Why?" tooltips for every nurse-facing prediction via SHAP force plots
+### 🏥 **ClearTriage** — Explainable AI Hospital Triage
+- Random Forest ESI + SHAP explanations; 0% error vs human triage (50-case audit)
+- 619 req/s sustained (JMeter, 100 concurrent); real-time "Why?" tooltips
 - Stack: Next.js, Express, MongoDB, FastAPI, SHAP, scikit-learn
 - 🔗 [Repo](https://github.com/VanshSharmaPES/ClearTriage)
 
 ---
 
 ### 🤖 **AI Bug Detector** — Automated AI-Powered PR Reviewer
-> GitHub App that parses PR diffs into AST via **tree-sitter** across 5 languages (C, C++, Python, JavaScript, TypeScript) to detect memory leaks, race conditions, null dereferences, and injection vulnerabilities.
-
-- **Async review pipeline**: BullMQ + Redis so webhook responses return immediately while LLM analysis runs in background
-- **Strict JSON schema validation (Zod)** before posting inline PR comments
-- Deployed on Vercel
-- Stack: Next.js, Groq (Llama-3.3-70B), tree-sitter, BullMQ, Redis, Zod
+- GitHub App parsing PR diffs via tree-sitter (5 langs) → detects leaks, races, injections
+- Async pipeline: BullMQ + Redis webhook response → LLM analysis in background
+- Zod schema validation before inline PR comments; deployed on Vercel
 - 🔗 [Repo](https://github.com/VanshSharmaPES/AI-Bug-Detector)
 
 ---
 
 ### 📚 **NovaLearn** — Full-Featured LMS
-> Role-based access (instructors/students), JWT auth, course management, progress tracking.
+- Role-based access (instructors/students), JWT auth, course management, progress tracking
 - Stack: MERN, JWT, React Query
 - 🔗 [Repo](https://github.com/VanshSharmaPES/NovaLearn)
 
 ---
 
 ### 🌐 **Portfolio Website**
-> Editorial dark-mode aesthetic. **97/100 Lighthouse**. CI/CD on Vercel.
+- Editorial dark-mode, 97/100 Lighthouse, CI/CD on Vercel
 - Stack: React, Tailwind, Vite
 - 🔗 [Live](https://vansharma.tech)
 
 ---
 
-### ⚡ **Hospital Queue Management System**
-> **500+ concurrent users • 16ms latency • 0% packet loss** (JMeter validated)
+### ⚡ **Hospital Queue Management**
+- 500+ concurrent users • 16ms latency • 0% packet loss (JMeter validated)
 - Stack: MERN, Apache JMeter
 - 🔗 [Repo](https://github.com/VanshSharmaPES/Hospital-Queue-Management)
 
 ---
 
-### 🌐 **Reliable Group Notification System** — Computer Networks Coursework
-> Reliable multicast protocol over UDP: ACK-based delivery, timeout/retransmission logic, custom packet framing with sequence numbers. Benchmarked against best-effort UDP under simulated packet loss (Linux `tc netem`).
+### 🌐 **Reliable Group Notification System**
+- Reliable multicast over UDP: ACK-based delivery, timeout/retransmission, custom framing
+- Benchmarked vs best-effort UDP under simulated loss (Linux tc netem)
 - Stack: C, UDP Sockets, Linux tc netem
 - 🔗 [Repo](https://github.com/VanshSharmaPES/Reliable-Group-Notification)
 
@@ -123,8 +115,8 @@ I build full-stack systems where the ML layer has to actually earn its place —
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshSharmaPES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaPES&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshSharmaPES&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshSharmaPES&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
