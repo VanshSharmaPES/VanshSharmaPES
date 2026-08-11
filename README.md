@@ -21,7 +21,7 @@ I build full-stack systems where the ML layer has to earn its place, not just ex
 **PESU Research Foundation (PESURF)** — Product Intern | Jun 2026 – Aug 2026 | Bengaluru
 
 - Fine-tuned Qwen 2.5-VL 32B on an 865-prescription dataset (700/85/85 train/test/val split) to replace third-party OCR APIs, reaching 95% exact-match accuracy on medicine name, dosage, and frequency on the held-out test set
-- Extended Sanjeevani, originally a solo project built for Kalpana 6.0, into the internship's core deliverable: a multi-provider LLM pipeline (Groq, NVIDIA NIM) with fuzzy matching over a 2.5L+ medicine dataset and multilingual TTS across 22 Indian languages
+- Extended Sanjeevani, originally a team project built for Kalpana 6.0, into the internship's core deliverable: a multi-provider LLM pipeline (Groq, NVIDIA NIM) with fuzzy matching over a 2.5L+ medicine dataset and multilingual TTS across 22 Indian languages
 
 **AIESEC in Bengaluru** — Senior Manager, Outgoing Global Talent | Aug 2025 – Jul 2026 | Bengaluru
 
@@ -31,12 +31,6 @@ I build full-stack systems where the ML layer has to earn its place, not just ex
 ---
 
 ## Featured Projects
-
-**Sanjeevani** — Prescription OCR + Multilingual TTS
-Started as a team entry at Kalpana 6.0 (7th place, IEEE PESUECC), later extended into a full production pipeline as my PESURF deliverable.
-- Two-stage pipeline: Llama 4 Scout OCR → Llama 3.3 70B analysis, multi-provider routing across Groq and NVIDIA NIM
-- Fuzzy matching over a 2.5L+ medicine dataset (SQLite caching, OpenFDA fallback), multilingual TTS across 22 Indian languages
-- [Repo](https://github.com/VanshSharmaPES/Sanjeevani)
 
 **Codex Reviewer** — Repository-Aware Automated PR Review
 Deployed GitHub App plus a convention-profiling CLI, live in production.
