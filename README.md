@@ -33,7 +33,7 @@ I build full-stack systems where the ML layer has to earn its place, not just ex
 ## Featured Projects
 
 **Sanjeevani** — Prescription OCR + Multilingual TTS
-Started as a solo entry at Kalpana 6.0 (7th place, IEEE PESUECC), later extended into a full production pipeline as my PESURF deliverable.
+Started as a team entry at Kalpana 6.0 (7th place, IEEE PESUECC), later extended into a full production pipeline as my PESURF deliverable.
 - Two-stage pipeline: Llama 4 Scout OCR → Llama 3.3 70B analysis, multi-provider routing across Groq and NVIDIA NIM
 - Fuzzy matching over a 2.5L+ medicine dataset (SQLite caching, OpenFDA fallback), multilingual TTS across 22 Indian languages
 - [Repo](https://github.com/VanshSharmaPES/Sanjeevani)
@@ -110,7 +110,7 @@ Deployed GitHub App plus a convention-profiling CLI, live in production.
 
 ## Achievements
 
-- 7th Place — Kalpana 6.0, "Hack for Humanity" (IEEE PESUECC Chapter), among 35 competing teams
+- 7th Place — Kalpana 6.0, Hack for Humanity (IEEE PESUECC Chapter), among 35 competing teams
 
 ---
 
