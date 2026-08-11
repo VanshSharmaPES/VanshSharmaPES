@@ -10,7 +10,7 @@
 
 ## Hey, I'm Vansh
 
-**B.Tech CSE (AI/ML) @ PES University, Bengaluru** &nbsp;•&nbsp; **CGPA: 7.07/10** &nbsp;•&nbsp; **Product Intern @ PESU Research Foundation**
+**B.Tech CSE (AI/ML) @ PES University, Bengaluru** &nbsp;•&nbsp; **Product Intern @ PESU Research Foundation**
 
 I build full-stack systems where the ML layer has to earn its place, not just exist. Current focus areas: medical AI that holds up under real-world conditions (handwritten prescriptions, multilingual patients, safety-critical validation) and developer tooling that makes code review genuinely intelligent instead of just automated.
 
