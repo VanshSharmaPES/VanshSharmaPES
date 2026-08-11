@@ -1,10 +1,16 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-sharma-pesu) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vansh@vansharma.tech) [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://vansharma.tech/)
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vansh%20Sharma&fontSize=42&fontColor=fff&animation=twinkle&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20%2728&descAlignY=55&descSize=16)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-sharma-pesu) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vansh@vansharma.tech) [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://vansharma.tech/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/v_.s_.2006)
+
+</div>
 
 ---
 
 ## Hey, I'm Vansh
 
-**B.Tech CSE (AI/ML) @ PES University, Bengaluru** &nbsp;•&nbsp; **Product Intern @ PESU Research Foundation**
+**B.Tech CSE (AI/ML) @ PES University, Bengaluru** &nbsp;•&nbsp; **CGPA: 7.07/10** &nbsp;•&nbsp; **Product Intern @ PESU Research Foundation**
 
 I build full-stack systems where the ML layer has to earn its place, not just exist. Current focus areas: medical AI that holds up under real-world conditions (handwritten prescriptions, multilingual patients, safety-critical validation) and developer tooling that makes code review genuinely intelligent instead of just automated.
 
@@ -78,9 +84,13 @@ Deployed GitHub App plus a convention-profiling CLI, live in production.
 
 ## GitHub Stats
 
-![](https://github-readme-stats.herokuapp.com/api?user=VanshSharmaPES&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y)
+<div align="center">
+
+![](https://github-readme-stats.herokuapp.com/api?username=VanshSharmaPES&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=VanshSharmaPES&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+</div>
 
 ---
 
@@ -109,3 +119,11 @@ Deployed GitHub App plus a convention-profiling CLI, live in production.
 - **Open to:** SWE / SDE / ML Engineer internships (Summer 2026) and full-time roles (2028)
 - **Ask me about:** medical AI, LLM pipelines, multilingual TTS, explainable ML, AST-based code analysis, reliable UDP protocols
 - **Reach me:** [Email](mailto:vansh@vansharma.tech) · [LinkedIn](https://linkedin.com/in/vansh-sharma-pesu)
+
+---
+
+<div align="center">
+
+![](https://camo.githubusercontent.com/2436d81233f5792fd0f264fd57041b0e01e7d27b18bdbb0f61303e4af59e6c9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f746572)
+
+</div>
