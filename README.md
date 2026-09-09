@@ -1,6 +1,8 @@
-# Vansh Sharma
+<div align="center">
 
-Full-Stack Engineer | AI/ML '28
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vansh%20Sharma&fontSize=42&fontColor=fff&animation=twinkle&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20%2728&descAlignY=55&descSize=16)
+
+</div>
 
 [LinkedIn](https://linkedin.com/in/vansh-sharma-pesu) · [Email](mailto:vansh@vansharma.tech) · [Portfolio](https://vansharma.tech/) · [Instagram](https://instagram.com/v_.s_.2006)
 
