@@ -50,18 +50,18 @@ C, C++, Python, JavaScript, TypeScript, SQL · React, Next.js, Node.js, Express,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanshSharmaPES&show_icons=true&theme=radical&hide_border=true)
+![GitHub Contribution Graph](https://ghchart.rshah.org/39d353/VanshSharmaPES)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=VanshSharmaPES&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=VanshSharmaPES&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaPES&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-stats-extended-frontend-theta-lilac.vercel.app/api/top-langs/?username=VanshSharmaPES&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkle)
 
 </div>
