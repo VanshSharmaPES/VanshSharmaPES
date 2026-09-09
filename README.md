@@ -2,9 +2,9 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vansh%20Sharma&fontSize=42&fontColor=fff&animation=twinkle&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20%2728&descAlignY=55&descSize=16)
 
-</div>
-
 [LinkedIn](https://linkedin.com/in/vansh-sharma-pesu) · [Email](mailto:vansh@vansharma.tech) · [Portfolio](https://vansharma.tech/) · [Instagram](https://instagram.com/v_.s_.2006)
+
+</div>
 
 ---
 
@@ -12,7 +12,7 @@
 
 B.Tech CSE (AI/ML) @ PES University, Bengaluru · Product Intern @ PESU Research Foundation
 
-I build full-stack systems where the ML layer has to earn its place, not just exist. Current focus: medical AI that holds up under real-world conditions, and developer tooling that makes code review genuinely intelligent instead of just automated.
+I build full-stack systems where the ML layer has to earn its place, not just exist.
 
 ---
 
@@ -50,12 +50,18 @@ C, C++, Python, JavaScript, TypeScript, SQL · React, Next.js, Node.js, Express,
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/VanshSharmaPES/VanshSharmaPES/main/generated/overview.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanshSharmaPES&show_icons=true&theme=radical&hide_border=true)
 
-![](https://raw.githubusercontent.com/VanshSharmaPES/VanshSharmaPES/main/generated/languages.svg)
+![GitHub Streak](https://streak-stats.demolab.com/?user=VanshSharmaPES&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaPES&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-Open to SWE / SDE / ML Engineer internships (Summer 2026) and full-time roles (2028).
+<div align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkle)
+
+</div>
