@@ -52,7 +52,7 @@ C, C++, Python, JavaScript, TypeScript, SQL · React, Next.js, Node.js, Express,
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/39d353/VanshSharmaPES)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=VanshSharmaPES&theme=tokyonight&hide_border=true)
+![GitHub Streak]([https://streak-stats.demolab.com/?user=VanshSharmaPES&theme=tokyonight&hide_border=true](https://github-readme-streak-stats-eight.vercel.app/?user=VanshSharmaPES&theme=tokyonight&hide_border=true))
 
 ![Top Languages](https://github-stats-extended-frontend-theta-lilac.vercel.app/api/top-langs/?username=VanshSharmaPES&layout=compact&theme=tokyonight&hide_border=true)
 
